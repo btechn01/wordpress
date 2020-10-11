@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94111418-b5bf-4a3b-be09-185718634ca9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/archive-film.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/archive.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/comments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/content-film.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/content-none.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/content-page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/content-single.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/content.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/film-content-single.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/front-page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/image.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/class-tgm-plugin-activation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/class-unite-helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/custom-header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/customizer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/extras.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/jetpack.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/js/customizer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/js/dev/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/js/dev/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/js/dev/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/js/dev/respond.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/js/html5shiv.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/js/main.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/js/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/metaboxes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/navwalker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/socialnav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/template-tags.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/widgets/popular-posts-widget.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/inc/widgets/widget-social.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/languages/de_DE.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/languages/de_DE.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/languages/fr_FR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/languages/fr_FR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/languages/pt_BR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/languages/pt_BR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/languages/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/languages/unite.pot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/page-fullwidth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/searchform.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/sidebar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/single-film.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/single.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/unitecustome/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1ib5fKHJyTzo4RIyjFTDlqVjKcB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes/unitecustome" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/themes/unitecustome" />
+      <recent name="$PROJECT_DIR$/wp-content/themes" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/unite-clone" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94111418-b5bf-4a3b-be09-185718634ca9" name="Default Changelist" comment="" />
+      <created>1602163552683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602163552683</updated>
+      <workItem from="1602163553864" duration="577000" />
+      <workItem from="1602338747834" duration="931000" />
+      <workItem from="1602339952206" duration="7121000" />
+      <workItem from="1602387094626" duration="1056000" />
+      <workItem from="1602392708896" duration="32000" />
+      <workItem from="1602424007330" duration="7232000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="359" y="221" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602339208457">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="359" y="221" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1602339208457" />
+    <state x="714" y="486" key="NewPhpFileDialog" timestamp="1602428597414">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="714" y="486" key="NewPhpFileDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1602428597414" />
+    <state x="396" y="199" key="SettingsEditor" timestamp="1602391594155">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="396" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1602391594155" />
+    <state x="693" y="480" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602435517264">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="693" y="480" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1792.1120@0.0.1792.1120" timestamp="1602435517264" />
+    <state x="596" y="305" width="600" height="510" key="find.popup" timestamp="1602436085935">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="596" y="305" width="600" height="510" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1602436085935" />
+    <state x="559" y="249" width="672" height="678" key="search.everywhere.popup" timestamp="1602438092881">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="559" y="249" width="672" height="678" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1602438092881" />
+  </component>
+</project>
